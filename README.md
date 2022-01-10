@@ -2,10 +2,4 @@
 
 A simple PHP application based on [Slim](http://slimframework.com/) for LeanEngine PHP runtime.
 
-## Documentation
-
-* [PHP Web Hosting Guide](https://docs.leancloud.app/leanengine_webhosting_guide-php.html)
-* [PHP Cloud Function Guide](https://docs.leancloud.app/leanengine_cloudfunction_guide-php.html)
-* [LeanStorage PHP Guide](https://docs.leancloud.app/leanstorage_guide-php.html)
-* [PHP SDK API](https://leancloud.github.io/php-sdk/)
-* [lean-cli Guide](https://docs.leancloud.app/leanengine_cli.html)
+![](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-fbef4341-61ab-44a6-9c30-73c4cce56370/9d5f02b6-3b25-4104-89d1-064059dc13e3.png)
